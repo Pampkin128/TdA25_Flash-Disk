@@ -9,12 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "express": "^4.21.1",
+    "next": "15.0.1",
     "react": "19.0.0-rc-69d4b800-20241021",
-    "react-dom": "19.0.0-rc-69d4b800-20241021",
-    "next": "15.0.1"
+    "react-dom": "19.0.0-rc-69d4b800-20241021"
   },
   "devDependencies": {
     "eslint": "^8",
     "eslint-config-next": "15.0.1"
-  }
+  },
+  "description": "Šablona pro vývoj aplikace v soutěži Tour de App společně s vytvořením a nahráním výstupu využívající framework [NextJS](https://nextjs.org/)",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
