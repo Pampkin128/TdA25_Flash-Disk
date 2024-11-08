@@ -15,7 +15,7 @@ export default function Home() {
         />
         <ol>
           <li>
-            Get started by editing <code>app/page.js</code>.
+            <li>Hello TdA</li>
           </li>
           <li>Zdravím všechny.</li>
         </ol>
