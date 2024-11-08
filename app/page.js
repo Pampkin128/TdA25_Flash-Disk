@@ -1,5 +1,7 @@
 import Image from "next/image";
 import styles from "./page.module.css";
+require('./server.js');
+
 
 export default function Home() {
   return (
@@ -91,3 +93,4 @@ export default function Home() {
     </div>
   );
 }
+
