@@ -14,9 +14,7 @@ export default function Home() {
           priority
         />
         <ol>
-          <li>
-            <li>Hello TdA</li>
-          </li>
+          <li>Hello TdA</li>
           <li>Zdravím všechny.</li>
         </ol>
 
